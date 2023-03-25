@@ -5,7 +5,7 @@
 Xcode 14.2
 swift 5.7.2
 
-##Clone
+## Clone
 
 Go in directory. Make a clone with git clone https://github.com/thomasop/todolist.git
 
